@@ -173,7 +173,7 @@ What is XHTML?
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
 
 Are HTML files interpreted or executed?
-
+**HTML files are interpreted**
 
 ### 16. Browser versioning
 
@@ -183,7 +183,7 @@ Which versions of Microsoft Internet Explorer support the `<nav>` tag?
 ### 17. HTML Validity
 
 What is one tool that can tell you if you have written valid HTML?
-
+**https://validator.w3.org/#validate_by_input**
 
 ### 18. Accessibility
 
@@ -197,29 +197,30 @@ What is one tool you can use to verify the accessibility of your websites?
 ### 19. head / body
 
 What is the `<head>` tag for?
-
+**this element comes before the body and you may find the title tag in there**
 What is the `<body>` tag for?
-
+**Shows everything that is inside there in the web browser window** 
 
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
-
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
 
 ### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
-
+**<table>, <tr>, <td>, <th>, <thead>, <tbody>, <tfoot>**
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
-
+**<area> , <base> , <br> , <col> , <embed> , <hr> , <img> , <input> , <keygen> , <link> , <meta> , <param> , <source> , <track> , <wbr>**
 
 ### 23. Links
 
 How do you make a link open in a new window?
-
+**target="_blank"**
 
 ### 24. IFRAME
 
