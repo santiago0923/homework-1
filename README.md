@@ -142,12 +142,12 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 ### 10. What is a webpage?
 
 *Your answer here.*
-
+**A webpage is a document written in HTML**
 
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
-
+**https://www11.kickassanime.io/ because it a a page where I can find the animes that I like**
 
 ### 12. Website I don’t like
 
@@ -157,16 +157,16 @@ What's one webpage you like? Why?
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
-
+**books and https://developer.mozilla.org/en-US/docs/Web/HTML**
 
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
-
+**HTML5, a DOCTYPE tag is a declration that tells the browser which version of HTML we are using**
 What is XML?
-
+**XML is a language that allow poeple to write markup languages**
 What is XHTML?
-
+**It is the reformulation of HTML4 to follow the rules of XML**
 
 ### 15. HTML
 
