@@ -225,9 +225,9 @@ How do you make a link open in a new window?
 ### 24. IFRAME
 
 What is an IFRAME?
-
+**an iframe is a litle window in your page where you can see another page**
 What are IFRAMEs commonly used for?
-
+**<iframe> , <src> , <height> , <width>**
 
 ## Writing Code
 
@@ -258,7 +258,7 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
-
+**too fast**
 
 ### 29. Jobs
 
